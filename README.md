@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2026-10-03 180336" src="https://github.com/user-attachments/assets/c1f645f1-19a1-4d79-8c20-2035ac16f5d4" />
 # Payment Trends & Concentration: Edwards Lifesciences
 
 A data-driven look at Edwards Lifesciences payment patterns from 2021-2025, combining Python, SQL, and Power BI to uncover key trends and insights.
@@ -63,3 +62,5 @@ Created an interactive dashboard to explore:
 - The top 10 identified recipients accounted for 37.60% of total payment value.
 - Consulting Fees represented the highest total payment value among payment reasons.
 - Some payment categories had relatively few transactions but substantially higher individual payment amounts.
+  <img width="1920" height="1080" alt="Screenshot 2026-10-03 180336" src="https://github.com/user-attachments/assets/c1f645f1-19a1-4d79-8c20-2035ac16f5d4" />
+
